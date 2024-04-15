@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "BIJKPlayer"
+  spec.name         = "BIJKPlayerPrivacy"
   spec.version      = "0.7.16"
   spec.summary      = "ijkplayer iOS video player SDK"
 
